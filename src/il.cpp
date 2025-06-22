@@ -1,3 +1,9 @@
+/*
+ * Copyright (c) 2025 Arlirad
+ * Licensed under the GNU General Public License v3.0
+ * See the LICENSE file in the top-level directory for details.
+ */
+
 #include "conversion.hpp"
 #include "lua.hpp"
 #include <opencv4/opencv2/core.hpp>
