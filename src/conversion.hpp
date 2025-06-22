@@ -1,4 +1,6 @@
 /*
+ * SPDX-License-Identifier: GPL-3.0-only
+ *
  * Copyright (c) 2025 Arlirad
  * Licensed under the GNU General Public License v3.0
  * See the LICENSE file in the top-level directory for details.
